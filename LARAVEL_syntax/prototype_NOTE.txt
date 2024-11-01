@@ -2,7 +2,7 @@
 #############################################################
 
                            %%%%%%%%%%4%%%%%%%%%%%%%%
-
+                           
 1:php artisan make:migration create_category_table
 ##have##
       <?php
