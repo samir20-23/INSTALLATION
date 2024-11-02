@@ -7,4 +7,3 @@
 5: T -> cd name_your_project (navigate into the project folder).
 6: T -> npm start 
 7: T -> ng serve (compile and start the project).
-8: T -> got to http://localhost:4200/  (to view your app).
