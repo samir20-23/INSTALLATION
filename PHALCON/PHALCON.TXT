@@ -1,0 +1,14 @@
+0: T -> (php -v to check your PHP version).
+ 1: T -> Download the Phalcon DLL from the Phalcon Windows DLL download page.
+  2: T -> Move php_phalcon.dll to your PHP extensions directory (e.g., C:\php\ext).
+   3: T -> Edit php.ini to add extension=php_phalcon.dll and set your timezone.
+    4: T -> Restart your web server (Apache, Nginx, etc.).
+    5: T -> Install Composer from getcomposer.org. 
+    6: T -> Create a new project directory (e.g., mkdir MyPhalconApp).
+    7: T -> Navigate into the project directory (e.g., cd MyPhalconApp). 
+    8: T -> Initialize Composer (run composer init). 
+    9: T -> Install Phalcon Incubator (run composer require phalcon/incubator). 
+    10: T -> Create the directory structure (optional). 
+    11: T -> Create a basic index file in public/index.php.
+     12: T -> Start your server (optional, run php -S localhost:8000 -t public).
+      13: T -> Go to http://localhost:8000/ (to view your Phalcon app).
