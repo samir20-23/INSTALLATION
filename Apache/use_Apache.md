@@ -24,3 +24,4 @@ To install MySQL and Apache separately without XAMPP:
    - After installation, start MySQL from the Services panel.
 
 Now, you have Apache and MySQL installed separately!
+<!--  -->
